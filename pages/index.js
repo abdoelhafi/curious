@@ -12,7 +12,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome curious ! Discover more about people you are intersted in easily 
+          Welcome to  "CURIOUS" ! Discover more about people you are intersted in easily 
         </h1>
         <Select />
       </main>
